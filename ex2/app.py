@@ -15,6 +15,7 @@ index2 = st.number_input('Type the index of the second character', format='%i', 
 
 if st.button('Compare'):
     st.header("Age Comparison")
+    st.text("this is for third commit")
     st.header(f"Character {index1}")
     st.header(f"Character {index2}")
     
